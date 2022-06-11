@@ -1,0 +1,3 @@
+my new file , i wanted to copy this file 
+:wq!
+
